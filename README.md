@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard
-I created an interactive Excel dashboard to track and analyze key sales metrics. Using Pivot Tables, dynamic charts and graphs, and interactive slicers, this tool makes it easy to visualize sales performance, spot trends, and make data-driven decisions
+#Siva-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+##Project Objective
+The Siva Store wants to create sales person report for 2024. So that, the owner of the Siva store can understand their Sales Person and grow more sales in 2025 & 2026.
