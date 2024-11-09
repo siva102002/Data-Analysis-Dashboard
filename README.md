@@ -6,13 +6,12 @@ The Siva Store wants to create sales person report for 2024. So that, the owner 
 - <a href="https://docs.google.com/spreadsheets/d/1sXtgwIutDMJiaZYS6MDrq3hNUF-YHQJg/edit?usp=sharing&ouid=108432707906348528662&rtpof=true&sd=true">Dataset</a>
 
 ## Questions (KPIs)
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - Men or Women?
-- What are different order status in 2022?
-- List top 10 states contributingto the sales?
-- Relation between age and gender based on number of orders.
-- Which Channel is contributing maximum to the sales?
-Highest selling category?
-- Percentage of Total Orders delivered
-- Dashboard Interaction View Dashboard
+- Compare the salesperson and their person using single chart.
+- Which salesperson got the highest sales and orders?
+- Which product sales more?
+- What are different type of product sold?
+- List amount of sales in each region?
+- Relation between salesperson and sales based on region.
+- Which Region is contributing maximum to the sales?
+- Highest selling Product?
+- Dashboard Interaction <a href="https://github.com/siva102002/Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
