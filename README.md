@@ -6,7 +6,7 @@ The Siva Store wants to create sales person report for 2024. So that, the owner 
 - <a href="https://docs.google.com/spreadsheets/d/1sXtgwIutDMJiaZYS6MDrq3hNUF-YHQJg/edit?usp=sharing&ouid=108432707906348528662&rtpof=true&sd=true">Dataset</a>
 
 ## Questions (KPIs)
-- Compare the salesperson and their person using single chart.
+- Compare the salesperson and their sales using single chart.
 - Which salesperson got the highest sales and orders?
 - Which product sales more?
 - What are different type of product sold?
@@ -27,14 +27,10 @@ The Siva Store wants to create sales person report for 2024. So that, the owner 
 ![Dashboard](https://github.com/user-attachments/assets/872e87ed-f214-45ae-a1c1-9d3c4dfe717b)
 
 ## Project Insight
-- Women customers are more likely to buy products compared to men (~65%).
-- The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
-- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
+- Moisturizer is the large amount of unit sold
+- The west region is the top seller region.
+- The Cameron sold many product as compare to others.
+- The sneakers is the product sell more by the salesperson.
 
 ## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in
-Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer
-segment, as they often make significant household and lifestyle purchases. The approach should include targeted
-digital marketing campaigns and personalized promotions to capture their attention.
+To improve the Performance of Salesperson in Siva Store, the above strategic marketing plan is effectively used. We can easily analyse which product sold more in which region.The above dashboard is used for examin sales in the region to put more salesperson in that region.Thus the above dashboard is effectively used for improve the business of siva store.
