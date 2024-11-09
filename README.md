@@ -15,3 +15,13 @@ The Siva Store wants to create sales person report for 2024. So that, the owner 
 - Which Region is contributing maximum to the sales?
 - Highest selling Product?
 - Dashboard Interaction <a href="https://github.com/siva102002/Data-Analysis-Dashboard/blob/main/Dashboard.png">View Dashboard</a>
+
+## Process
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/872e87ed-f214-45ae-a1c1-9d3c4dfe717b)
